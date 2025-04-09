@@ -27,9 +27,9 @@ author:
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=ma9gcQsAAAAJ"
+  googlescholar    : # "https://scholar.google.com.hk/citations?user=ma9gcQsAAAAJ"
   email            : "houzht@mail2.sysu.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
