@@ -35,8 +35,20 @@ KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction
 
 **Zhitian Hou**, Jinlin Li, Ge Lin, Kun Zeng
 
-[**Code**](https://github.com/ZhitianHou/KnowJudge) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code** ![](https://img.shields.io/github/stars/ZhitianHou/KnowJudge?style=social)](https://github.com/ZhitianHou/KnowJudge) 
 - We proposed KnowJudge, a knowledge-driven cognitive simulation framework and introduces the Law Keyword Recognition (LKR) dataset. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Digital Health</div><img src='images/Homogeneous.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Homogeneous ensemble models for predicting infection levels and mortality of COVID-19 patients: Evidence from China
+
+Jiafeng Wang$^\*$, Xianlong Zhou$^\*$, **Zhitian Hou$^\*$**, Xiaoya Xu, Yueyue Zhao et al.
+
+[**Pdf**](https://journals.sagepub.com/doi/epub/10.1177/20552076221133692) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We proposed two homogeneous ensemble models based on clinical features of COVID-19 patients for predicting infection levels and mortality.
 </div>
 </div>
 
