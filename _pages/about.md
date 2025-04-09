@@ -24,7 +24,8 @@ I am also collaborating with **[Prof. Wenhao Zhang](https://people.uwe.ac.uk/Per
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 Our paper "KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction" has been accepted to CogSci 2025. 
+- *2025.04*: &nbsp;🎉🎉 Our paper "KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction" has been accepted to **CogSci 2025**. 
+- *2022.10*: &nbsp;🎉🎉 Our paper "Homogeneous ensemble models for predicting infection levels and mortality of COVID-19 patients: Evidence from China" has been accepted to **Digital Health**. 
 
 # 📝 Publications 
 
