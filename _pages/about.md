@@ -43,10 +43,10 @@ KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2024.09* First-Class Scholarship, SYSU 
+- *2024.09* First-Grade Scholarship, SYSU 
 - *2023.06* Outstanding Graduate, SCNU  
-- *2023.04* First-Class Scholarship, SCNU  
-- *2021.04* First-Class Scholarship, SCNU 
+- *2023.04* First-Grade Scholarship, SCNU  
+- *2021.04* First-Grade Scholarship, SCNU 
 - *2021.04* Finalist (F Award), Mathematical Contest in Modeling (MCM), COMAP
 
 # 📖 Educations
