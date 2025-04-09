@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Zhitian Hou(侯智天), a second-year Master's student in Computer Technology at [SYSU](https://www.sysu.edu.cn/sysuen/), advised by **[Prof. Kun Zeng](https://cse.sysu.edu.cn/teacher/ZengKun)**.  
-My research interests lie primarily in **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **Legal AI**.
+I am Zhitian Hou(侯智天), a second-year Master's student in Computer Technology at [SYSU](https://www.sysu.edu.cn/sysuen/), advised by **[Prof. Kun Zeng](https://cse.sysu.edu.cn/teacher/ZengKun)**.  My current research interests lie primarily in **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **Legal AI**.
 
 Prior to this, I received my Bachelor's degree in 2023 from SCNU, where I worked in the **[TAM Lab](https://tony-hao.github.io/TAMLab/)** under the supervision of **[Prof. Tianyong Hao](https://www.scholat.com/haoty.en)**.  
 I am also collaborating with **[Prof. Wenhao Zhang](https://people.uwe.ac.uk/Person/WenhaoZhang)**.
