@@ -60,6 +60,7 @@ Jiafeng Wang$^\*$, Xianlong Zhou$^\*$, **Zhitian Hou$^\*$**, Xiaoya Xu, Yueyue Z
 - *2024.09* First-Grade Scholarship, SYSU 
 - *2023.06* Outstanding Graduate, SCNU  
 - *2023.04* First-Grade Scholarship, SCNU  
+- *2022.10* "Intelligent Base" Future Star Scholarship，Ministry of Education \& Huawei 
 - *2021.04* First-Grade Scholarship, SCNU 
 - *2021.04* Finalist (F Award), Mathematical Contest in Modeling (MCM), COMAP
 
