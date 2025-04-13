@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<!-- {% if site.google_scholar_stats_use_cdn %}
+{% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
@@ -61,7 +61,7 @@ Jiafeng Wang$^\*$, Xianlong Zhou$^\*$, **Zhitian Hou$^\*$**, Xiaoya Xu, Yueyue Z
 - *2023.06* Outstanding Graduate, SCNU  
 - *2023.06* 37 Interactive Entertainment Scholarship, 37 Interactive Entertainment
 - *2023.04* First-Grade Scholarship, SCNU  
-- *2022.10* "Intelligent Base" Future Star Scholarship，Ministry of Education \& Huawei 
+- *2022.10* "Intelligent Base" Future Star Scholarship，Ministry of Education & Huawei 
 - *2021.04* First-Grade Scholarship, SCNU 
 - *2021.04* Finalist (F Award), Mathematical Contest in Modeling (MCM), COMAP
 
