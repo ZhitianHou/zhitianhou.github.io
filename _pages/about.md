@@ -43,7 +43,7 @@ Zihan Ye, **Zhitian Hou**, Ge Lin, Kun Zeng
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2025</div><img src='images/KnowJudge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2025</div><img src='images/Infi-Med.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Infi-Med: Low-Resource Medical MLLMs with Robust Reasoning Evaluation
