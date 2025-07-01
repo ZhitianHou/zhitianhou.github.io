@@ -39,6 +39,22 @@ QCSH: Quantization Controlled Semantic Hashing for Effective Similar Text Search
 Zihan Ye, **Zhitian Hou**, Ge Lin, Kun Zeng
 
 - We propose an unsupervised novel semantic text hashing framework, Quantization Controlled Semantic Hashing (QCSH), which enhances feature representation while refines the binarization process.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2025</div><img src='images/KnowJudge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Infi-Med: Low-Resource Medical MLLMs with Robust Reasoning Evaluation
+
+Zeyu Liu$^\*$, **Zhitian Hou$^\*$**, Yining Di, Kejing Yang, Zhijie Sang, Congkai Xie, Jingwen Yang, Siyuan Liu, Jialu Wang, Chunming Li, Ming Li, Hongxia Yang
+
+[**PDF**](https://arxiv.org/pdf/2505.23867) 
+
+- We propose Infi-Med, a comprehensive framework for medical MLLMs that introduces three key innovations: (1) a resource-efficient
+approach through curating and constructing high-quality supervised fine-tuning (SFT) datasets with minimal sample requirements, with a forward-looking design that extends to both pretraining and posttraining phases; (2) enhanced multimodal reasoning capabilities for cross-modal integration and clinical task understanding; and (3) a systematic evaluation system that assesses model performance across medical modalities and task types.
+
 </div>
 </div>
 
