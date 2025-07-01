@@ -76,7 +76,7 @@ KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction
 
 Homogeneous ensemble models for predicting infection levels and mortality of COVID-19 patients: Evidence from China
 
-Jiafeng Wang$^\*$, Xianlong Zhou$^\*$, **Zhitian Hou$^\*$**, Xiaoya Xu, Yueyue Zhao and others
+Jiafeng Wang$^\*$, Xianlong Zhou$^\*$, **Zhitian Hou$^\*$**, Xiaoya Xu, Yueyue Zhao, Shanshan Chen, Jun Zhang, Lina Shao, Rong Yan, Mingshan Wang, Minghua Ge, Tianyong Hao, Yuexing Tu, and Haijun Huang
 
 [**PDF**](https://journals.sagepub.com/doi/epub/10.1177/20552076221133692) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We proposed two homogeneous ensemble models based on clinical features of COVID-19 patients for predicting infection levels and mortality.
