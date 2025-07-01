@@ -24,7 +24,6 @@ I was also collaborated with **[Prof. Wenhao Zhang](https://people.uwe.ac.uk/Per
 
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 Our paper "QCSH: Quantization Controlled Semantic Hashing for Effective Similar Text Search" has been accepted to **IEEE SMC Conference 2025**. 
 - *2025.04*: &nbsp;🎉🎉 Our paper "KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction" has been accepted to **CogSci 2025**. 
 - *2022.10*: &nbsp;🎉🎉 Our paper "Homogeneous ensemble models for predicting infection levels and mortality of COVID-19 patients: Evidence from China" has been accepted to **Digital Health**. 
 
