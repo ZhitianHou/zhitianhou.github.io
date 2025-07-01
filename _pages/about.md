@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Zhitian Hou(侯智天), a second-year Master's student in Computer Technology at [SYSU](https://www.sysu.edu.cn/sysuen/), advised by **[Prof. Kun Zeng](https://cse.sysu.edu.cn/teacher/ZengKun)**.  My current research interests lie primarily in **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **Legal AI**.
+I am Zhitian Hou(侯智天), a second-year Master's student in Computer Technology at [SYSU](https://www.sysu.edu.cn/sysuen/), advised by **[Prof. Kun Zeng](https://cse.sysu.edu.cn/teacher/ZengKun)**. I am currently an intern at [RealLM Lab](https://github.com/Reallm-Labs), under the supervision of [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/). My current research interests lie primarily in **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **Medical LLMs**, with previous research experience in **Legal AI**.
 
 Prior to this, I received my Bachelor's degree in 2023 from SCNU, where I worked in the **[TAM Lab](https://tony-hao.github.io/TAMLab/)** under the supervision of **[Prof. Tianyong Hao](https://www.scholat.com/haoty.en)**.  
 I was also collaborated with **[Prof. Wenhao Zhang](https://people.uwe.ac.uk/Person/WenhaoZhang)**.
@@ -25,6 +25,7 @@ I was also collaborated with **[Prof. Wenhao Zhang](https://people.uwe.ac.uk/Per
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 Our paper "QCSH: Quantization Controlled Semantic Hashing for Effective Similar Text Search" has been accepted to **IEEE SMC Conference 2025**. 
+- *2025.05*: &nbsp;🎉🎉 Our paper "Infi-Med: Low-Resource Medical MLLMs with Robust Reasoning Evaluation" has been published on [arXiv](https://arxiv.org/abs/2505.23867).
 - *2025.04*: &nbsp;🎉🎉 Our paper "KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction" has been accepted to **CogSci 2025**. 
 - *2022.10*: &nbsp;🎉🎉 Our paper "Homogeneous ensemble models for predicting infection levels and mortality of COVID-19 patients: Evidence from China" has been accepted to **Digital Health**. 
 
@@ -67,7 +68,7 @@ Jiafeng Wang$^\*$, Xianlong Zhou$^\*$, **Zhitian Hou$^\*$**, Xiaoya Xu, Yueyue Z
 - *2021.04* Finalist (F Award), Mathematical Contest in Modeling (MCM), COMAP
 
 # 📖 Educations
-- *2023.09 - now*, Master, Computer Technology, School of Computer Science and Engineering, Sun Yat-sen University.
+- *2023.09 - present*, Master, Computer Technology, School of Computer Science and Engineering, Sun Yat-sen University.
 - *2019.09 - 2023.06*, Undergraduate, Artificial Intelligence, School of Computer Science, South China Normal University. 
 
 <!-- # 💬 Invited Talks
@@ -75,4 +76,5 @@ Jiafeng Wang$^\*$, Xianlong Zhou$^\*$, **Zhitian Hou$^\*$**, Xiaoya Xu, Yueyue Z
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+- *2025.06 - present*, Research Intern, [RealLM Lab](https://github.com/Reallm-Labs), Shenzhen.
 - *2022.09 - 2023.06*, Research Intern, [TAM Lab](https://tony-hao.github.io/TAMLab/), Guangzhou.
