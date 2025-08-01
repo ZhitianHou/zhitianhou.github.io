@@ -67,6 +67,7 @@ KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction
 
 [**Code**](https://github.com/ZhitianHou/KnowJudge) 
 <!-- [**Code** ![](https://img.shields.io/github/stars/ZhitianHou/KnowJudge?style=social)](https://github.com/ZhitianHou/KnowJudge)  -->
+[**PDF**](https://escholarship.org/uc/item/28w694zd) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We proposed KnowJudge, a knowledge-driven cognitive simulation framework and introduces the Law Keyword Recognition (LKR) dataset. 
 </div>
 </div>
