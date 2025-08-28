@@ -102,5 +102,5 @@ Jiafeng Wang$^\*$, Xianlong Zhou$^\*$, **Zhitian Hou$^\*$**, Xiaoya Xu, Yueyue Z
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.06 - present*, Research Intern, [RealLM Lab](https://github.com/Reallm-Labs), Shenzhen.
+- *2025.06 - present*, Research Intern, [Infix.ai](https://infix-ai.com/), Shenzhen.
 - *2022.09 - 2023.06*, Research Intern, [TAM Lab](https://tony-hao.github.io/TAMLab/), Guangzhou.
