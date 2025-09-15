@@ -30,6 +30,20 @@ My current research interests lie primarily in **Natural Language Processing (NL
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/LLM4LegalAI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Large Language Models Meet Legal Artificial Intelligence: A Survey
+
+**Zhitian Hou**, Zihan Ye, Nanli Zeng, Tianyong Hao, Kun Zeng
+
+[**PDF**](https://arxiv.org/pdf/2509.09969)
+
+- This paper provides a comprehensive review of 16 legal LLMs series and 47 LLM-based frameworks for legal tasks, and also gather 15 benchmarks and 29 datasets to evaluate different legal capabilities. Additionally, we analyse the challenges and discuss future directions for LLMbased approaches in the legal domain. We hope this paper provides a systematic introduction for beginners and encourages future research in this field.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SMC Conference 2025</div><img src='images/QCSH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -38,17 +52,6 @@ QCSH: Quantization Controlled Semantic Hashing for Effective Similar Text Search
 Zihan Ye, **Zhitian Hou**, Ge Lin, Kun Zeng
 
 - We propose an unsupervised novel semantic text hashing framework, Quantization Controlled Semantic Hashing (QCSH), which enhances feature representation while refines the binarization process.
-
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/LLM4LegalAI.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Large Language Models Meet Legal Artificial Intelligence: A Survey
-
-**Zhitian Hou**, Zihan Ye, Nanli Zeng, Tianyong Hao, Kun Zeng
-
-- This paper provides a comprehensive review of 16 legal LLMs series and 47 LLM-based frameworks for legal tasks, and also gather 15 benchmarks and 29 datasets to evaluate different legal capabilities. Additionally, we analyse the challenges and discuss future directions for LLMbased approaches in the legal domain. We hope this paper provides a systematic introduction for beginners and encourages future research in this field.
 
 </div>
 </div>
