@@ -37,6 +37,7 @@ Large Language Models Meet Legal Artificial Intelligence: A Survey
 
 **Zhitian Hou**, Zihan Ye, Nanli Zeng, Tianyong Hao, Kun Zeng
 
+[**Code**](https://github.com/ZhitianHou/LLMs4LegalAI) 
 [**PDF**](https://arxiv.org/pdf/2509.09969)
 
 - This paper provides a comprehensive review of 16 legal LLMs series and 47 LLM-based frameworks for legal tasks, and also gather 15 benchmarks and 29 datasets to evaluate different legal capabilities. Additionally, we analyse the challenges and discuss future directions for LLMbased approaches in the legal domain. We hope this paper provides a systematic introduction for beginners and encourages future research in this field.
