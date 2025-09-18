@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Zhitian Hou(侯智天), a second-year Master's student in Computer Technology at **[SYSU](https://www.sysu.edu.cn/sysuen/)**, advised by **[Prof. Kun Zeng](https://cse.sysu.edu.cn/teacher/ZengKun)**. I am currently an intern at **[Infix.ai](https://infix-ai.com/)**, under the supervision of **[Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/)**. Prior to this, I received my Bachelor's degree in 2023 from SCNU, where I worked in the **[TAM Lab](https://tony-hao.github.io/TAMLab/)** under the supervision of **[Prof. Tianyong Hao](https://www.scholat.com/haoty.en)**. 
-My current research interests lie primarily in **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **Medical LLMs**, with previous research experience in **Legal AI**.
+I am Zhitian Hou(侯智天), a second-year Master's student in Computer Technology at **[SYSU](https://www.sysu.edu.cn/sysuen/)**, advised by **[Prof. Kun Zeng](https://cse.sysu.edu.cn/teacher/ZengKun)**. I am currently an intern at **[Infix.ai](https://infix-ai.com/)**, under the supervision of **[Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/)**. Prior to this, I received my Bachelor's degree in 2023 from SCNU, where I studied in the **[TAM Lab](https://tony-hao.github.io/TAMLab/)** under the supervision of **[Prof. Tianyong Hao](https://www.scholat.com/haoty.en)**. 
+My current research interests lie primarily in **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **Medical MLLMs**, with previous research experience in **Legal AI**.
 
 
 # 🔥 News
