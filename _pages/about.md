@@ -30,6 +30,24 @@ My current research interests lie primarily in **Natural Language Processing (NL
 
 # 📝 Publications 
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/Infi-Med.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+InfiMed: Low-Resource Medical MLLMs with Advancing Understanding and Reasoning
+
+Zeyu Liu$^\*$, **Zhitian Hou$^\*$**, Guanghao Zhu, Zhijie Sang, Congkai Xie, Hongxia Yang
+
+[![**HF**](https://img.shields.io/badge/HuggingFace-InfiMed--RL--3B-blue?logo=huggingface&logoColor=yellow&labelColor=FFEB66)](https://huggingface.co/InfiX-ai/InfiMed-RL-3B)
+[![](https://img.shields.io/badge/InfiMed-Paper-red?labelColor=blue)](https://arxiv.org/pdf/2505.23867) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:UeHWp8X0CEIC'></span></strong>
+
+- We propose Infi-Med, a comprehensive framework for medical MLLMs that introduces three key innovations: (1) a resource-efficient
+approach through curating and constructing high-quality supervised fine-tuning (SFT) datasets with minimal sample requirements, with a forward-looking design that extends to both pretraining and posttraining phases; (2) enhanced multimodal reasoning capabilities for cross-modal integration and clinical task understanding; and (3) a systematic evaluation system that assesses model performance across medical modalities and task types.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/LLM4LegalAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -38,8 +56,8 @@ Large Language Models Meet Legal Artificial Intelligence: A Survey
 **Zhitian Hou**, Zihan Ye, Nanli Zeng, Tianyong Hao, Kun Zeng
 
 <!-- [**Code**](https://github.com/ZhitianHou/LLMs4LegalAI)  -->
-[**Code** ![](https://img.shields.io/github/stars/ZhitianHou/LLMs4LegalAI?style=social)](https://github.com/ZhitianHou/LLMs4LegalAI)
-[**PDF**](https://arxiv.org/pdf/2509.09969) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:zYLM7Y9cAGgC'></span></strong>
+[![](https://img.shields.io/github/stars/ZhitianHou/LLMs4LegalAI?style=social)](https://github.com/ZhitianHou/LLMs4LegalAI)
+[![](https://img.shields.io/badge/LLM4LegalAI--Survey-Paper-red?labelColor=blue)](https://arxiv.org/pdf/2509.09969) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:zYLM7Y9cAGgC'></span></strong>
 
 
 - This paper provides a comprehensive review of 16 legal LLMs series and 47 LLM-based frameworks for legal tasks, and also gather 15 benchmarks and 29 datasets to evaluate different legal capabilities. Additionally, we analyse the challenges and discuss future directions for LLMbased approaches in the legal domain. We hope this paper provides a systematic introduction for beginners and encourages future research in this field.
@@ -55,22 +73,6 @@ QCSH: Quantization Controlled Semantic Hashing for Effective Similar Text Search
 Zihan Ye, **Zhitian Hou**, Ge Lin, Kun Zeng
 
 - We propose an unsupervised novel semantic text hashing framework, Quantization Controlled Semantic Hashing (QCSH), which enhances feature representation while refines the binarization process.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/Infi-Med.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-InfiMed: Low-Resource Medical MLLMs with Advancing Understanding and Reasoning
-
-Zeyu Liu$^\*$, **Zhitian Hou$^\*$**, Guanghao Zhu, Zhijie Sang, Congkai Xie, Hongxia Yang
-
-[![**HF**](https://img.shields.io/badge/HuggingFace-InfiMed--RL--3B-blue?logo=huggingface&logoColor=yellow)](https://huggingface.co/InfiX-ai/InfiMed-RL-3B)
-[**PDF**](https://arxiv.org/pdf/2505.23867) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:UeHWp8X0CEIC'></span></strong>
-
-- We propose Infi-Med, a comprehensive framework for medical MLLMs that introduces three key innovations: (1) a resource-efficient
-approach through curating and constructing high-quality supervised fine-tuning (SFT) datasets with minimal sample requirements, with a forward-looking design that extends to both pretraining and posttraining phases; (2) enhanced multimodal reasoning capabilities for cross-modal integration and clinical task understanding; and (3) a systematic evaluation system that assesses model performance across medical modalities and task types.
 
 </div>
 </div>
@@ -96,7 +98,7 @@ Homogeneous ensemble models for predicting infection levels and mortality of COV
 
 Jiafeng Wang$^\*$, Xianlong Zhou$^\*$, **Zhitian Hou$^\*$**, Xiaoya Xu, Yueyue Zhao, Shanshan Chen, Jun Zhang, Lina Shao, Rong Yan, Mingshan Wang, Minghua Ge, Tianyong Hao, Yuexing Tu, and Haijun Huang
 
-[**PDF**](https://journals.sagepub.com/doi/epub/10.1177/20552076221133692) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:qjMakFHDy7sC'></span></strong>
+[![](https://img.shields.io/badge/COVID--19--Analysis-Paper-red?labelColor=blue)](https://journals.sagepub.com/doi/epub/10.1177/20552076221133692) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:qjMakFHDy7sC'></span></strong>
 - We proposed two homogeneous ensemble models based on clinical features of COVID-19 patients for predicting infection levels and mortality.
 </div>
 </div>
