@@ -22,9 +22,9 @@ My current research interests lie primarily in **Natural Language Processing (NL
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Our paper "InfiMed: Low-Resource Medical MLLMs with Advancing Understanding and Reasoning" has been published on [arXiv](https://arxiv.org/abs/2505.23867).
 - *2025.09*: &nbsp;🎉🎉 Our paper "Large Language Models Meet Legal Artificial Intelligence: A Survey" has been published on [arXiv](https://arxiv.org/abs/2509.09969).
 - *2025.07*: &nbsp;🎉🎉 Our paper "QCSH: Quantization Controlled Semantic Hashing for Effective Similar Text Search" has been accepted to **IEEE SMC Conference 2025**. 
-- *2025.05*: &nbsp;🎉🎉 Our paper "Infi-Med: Low-Resource Medical MLLMs with Robust Reasoning Evaluation" has been published on [arXiv](https://arxiv.org/abs/2505.23867).
 - *2025.04*: &nbsp;🎉🎉 Our paper "KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction" has been accepted to **CogSci 2025**. 
 - *2022.10*: &nbsp;🎉🎉 Our paper "Homogeneous ensemble models for predicting infection levels and mortality of COVID-19 patients: Evidence from China" has been accepted to **Digital Health**. 
 
@@ -37,7 +37,8 @@ Large Language Models Meet Legal Artificial Intelligence: A Survey
 
 **Zhitian Hou**, Zihan Ye, Nanli Zeng, Tianyong Hao, Kun Zeng
 
-[**Code**](https://github.com/ZhitianHou/LLMs4LegalAI) 
+<!-- [**Code**](https://github.com/ZhitianHou/LLMs4LegalAI)  -->
+[**Code** ![](https://img.shields.io/github/stars/ZhitianHou/LLMs4LegalAI?style=social)](https://github.com/ZhitianHou/LLMs4LegalAI)
 [**PDF**](https://arxiv.org/pdf/2509.09969) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:zYLM7Y9cAGgC'></span></strong>
 
 
@@ -61,10 +62,11 @@ Zihan Ye, **Zhitian Hou**, Ge Lin, Kun Zeng
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/Infi-Med.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Infi-Med: Low-Resource Medical MLLMs with Robust Reasoning Evaluation
+InfiMed: Low-Resource Medical MLLMs with Advancing Understanding and Reasoning
 
 Zeyu Liu$^\*$, **Zhitian Hou$^\*$**, Guanghao Zhu, Zhijie Sang, Congkai Xie, Hongxia Yang
 
+[![**HF**](https://img.shields.io/badge/HuggingFace-InfiMed--RL--3B-blue?logo=huggingface&logoColor=yellow)](https://huggingface.co/InfiX-ai/InfiMed-RL-3B)
 [**PDF**](https://arxiv.org/pdf/2505.23867) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:UeHWp8X0CEIC'></span></strong>
 
 - We propose Infi-Med, a comprehensive framework for medical MLLMs that introduces three key innovations: (1) a resource-efficient
@@ -80,8 +82,8 @@ KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction
 
 **Zhitian Hou**, Jinlin Li, Ge Lin, Kun Zeng
 
-[**Code**](https://github.com/ZhitianHou/KnowJudge) 
-<!-- [**Code** ![](https://img.shields.io/github/stars/ZhitianHou/KnowJudge?style=social)](https://github.com/ZhitianHou/KnowJudge)  -->
+<!-- [**Code**](https://github.com/ZhitianHou/KnowJudge)  -->
+[**Code** ![](https://img.shields.io/github/stars/ZhitianHou/KnowJudge?style=social)](https://github.com/ZhitianHou/KnowJudge) 
 [**PDF**](https://escholarship.org/uc/item/28w694zd) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:IjCSPb-OGe4C'></span></strong>
 - We proposed KnowJudge, a knowledge-driven cognitive simulation framework and introduces the Law Keyword Recognition (LKR) dataset. 
 </div>
