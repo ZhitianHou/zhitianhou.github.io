@@ -63,7 +63,7 @@ Zihan Ye, **Zhitian Hou**, Ge Lin, Kun Zeng
 
 Infi-Med: Low-Resource Medical MLLMs with Robust Reasoning Evaluation
 
-Zeyu Liu$^\*$, **Zhitian Hou$^\*$**, Yining Di, Kejing Yang, Zhijie Sang, Congkai Xie, Jingwen Yang, Siyuan Liu, Jialu Wang, Chunming Li, Ming Li, Hongxia Yang
+Zeyu Liu$^\*$, **Zhitian Hou$^\*$**, Guanghao Zhu, Zhijie Sang, Congkai Xie, Hongxia Yang
 
 [**PDF**](https://arxiv.org/pdf/2505.23867) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:UeHWp8X0CEIC'></span></strong>
 
