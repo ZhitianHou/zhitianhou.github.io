@@ -32,7 +32,7 @@ My current research interests lie primarily in **Natural Language Processing (NL
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/Infi-Med.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/InfiMed-Foundation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 InfiMed-Foundation: Pioneering Advanced Multimodal Medical Models with Compute-Efficient Pre-Training and Multi-Stage Fine-Tuning
