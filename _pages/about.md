@@ -22,6 +22,7 @@ My current research interests lie primarily in **Natural Language Processing (NL
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Our paper "InfiMed-Foundation: Pioneering Advanced Multimodal Medical Models with Compute-Efficient Pre-Training and Multi-Stage Fine-Tuning" has been published on [arXiv](https://arxiv.org/abs/2509.22261).
 - *2025.09*: &nbsp;🎉🎉 Our paper "InfiMed: Low-Resource Medical MLLMs with Advancing Understanding and Reasoning" has been published on [arXiv](https://arxiv.org/abs/2505.23867).
 - *2025.09*: &nbsp;🎉🎉 Our paper "Large Language Models Meet Legal Artificial Intelligence: A Survey" has been published on [arXiv](https://arxiv.org/abs/2509.09969).
 - *2025.07*: &nbsp;🎉🎉 Our paper "QCSH: Quantization Controlled Semantic Hashing for Effective Similar Text Search" has been accepted to **IEEE SMC Conference 2025**. 
@@ -30,6 +31,21 @@ My current research interests lie primarily in **Natural Language Processing (NL
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/Infi-Med.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+InfiMed-Foundation: Pioneering Advanced Multimodal Medical Models with Compute-Efficient Pre-Training and Multi-Stage Fine-Tuning
+
+Guanghao Zhu, **Zhitian Hou**, Zeyu Liu, Zhijie Sang, Congkai Xie, Hongxia Yang
+
+[![**HF**](https://img.shields.io/badge/HuggingFace-InfiMed--Foundation--4B-blue?logo=huggingface&logoColor=yellow&labelColor=FFEB66)](https://huggingface.co/InfiX-ai/InfiMed-Foundation-4B)
+[![](https://img.shields.io/badge/InfiMed--Foundation-Paper-red?labelColor=blue)](https://arxiv.org/pdf/2509.22261) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:UeHWp8X0CEIC'></span></strong>
+
+- Multimodal large language models (MLLMs) have shown remarkable potential in various domains, yet their application in the medical field is hindered by several challenges. General-purpose MLLMs often lack the specialized knowledge required for medical tasks, leading to uncertain or hallucinatory responses. Knowledge distillation from advanced models struggles to capture domain-specific expertise in radiology and pharmacology. Additionally, the computational cost of continual pretraining with large-scale medical data poses significant efficiency challenges ...
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/Infi-Med.png' alt="sym" width="100%"></div></div>
@@ -40,7 +56,7 @@ InfiMed: Low-Resource Medical MLLMs with Advancing Understanding and Reasoning
 Zeyu Liu$^\*$, **Zhitian Hou$^\*$**, Guanghao Zhu, Zhijie Sang, Congkai Xie, Hongxia Yang
 
 [![**HF**](https://img.shields.io/badge/HuggingFace-InfiMed--RL--3B-blue?logo=huggingface&logoColor=yellow&labelColor=FFEB66)](https://huggingface.co/InfiX-ai/InfiMed-RL-3B)
-[![](https://img.shields.io/badge/InfiMed-Paper-red?labelColor=blue)](https://arxiv.org/pdf/2505.23867) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:UeHWp8X0CEIC'></span></strong>
+[![](https://img.shields.io/badge/InfiMed--RL-Paper-red?labelColor=blue)](https://arxiv.org/pdf/2505.23867) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:UeHWp8X0CEIC'></span></strong>
 
 - We propose Infi-Med, a comprehensive framework for medical MLLMs that introduces three key innovations: (1) a resource-efficient
 approach through curating and constructing high-quality supervised fine-tuning (SFT) datasets with minimal sample requirements, with a forward-looking design that extends to both pretraining and posttraining phases; (2) enhanced multimodal reasoning capabilities for cross-modal integration and clinical task understanding; and (3) a systematic evaluation system that assesses model performance across medical modalities and task types.
