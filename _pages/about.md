@@ -58,8 +58,7 @@ Zeyu Liu$^\*$, **Zhitian Hou$^\*$**, Guanghao Zhu, Zhijie Sang, Congkai Xie, Hon
 [![**HF**](https://img.shields.io/badge/HuggingFace-InfiMed--RL--3B-blue?logo=huggingface&logoColor=yellow&labelColor=FFEB66)](https://huggingface.co/InfiX-ai/InfiMed-RL-3B)
 [![](https://img.shields.io/badge/InfiMed--RL-Paper-red?labelColor=blue)](https://arxiv.org/pdf/2505.23867) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:UeHWp8X0CEIC'></span></strong>
 
-- We propose Infi-Med, a comprehensive framework for medical MLLMs that introduces three key innovations: (1) a resource-efficient
-approach through curating and constructing high-quality supervised fine-tuning (SFT) datasets with minimal sample requirements, with a forward-looking design that extends to both pretraining and posttraining phases; (2) enhanced multimodal reasoning capabilities for cross-modal integration and clinical task understanding; and (3) a systematic evaluation system that assesses model performance across medical modalities and task types.
+- In this work, we introduce the InfiMed-Series models, including InfiMed-SFT-3B and InfiMed-RL-3B, a set of multimodal large language models (MLLMs) specialized for medical tasks.
 
 </div>
 </div>
