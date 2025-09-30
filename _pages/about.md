@@ -39,8 +39,8 @@ InfiMed-Foundation: Pioneering Advanced Multimodal Medical Models with Compute-E
 
 Guanghao Zhu, **Zhitian Hou**, Zeyu Liu, Zhijie Sang, Congkai Xie, Hongxia Yang
 
-[![**HF**](https://img.shields.io/badge/HuggingFace-InfiMed--Foundation--4B-blue?logo=huggingface&logoColor=yellow&labelColor=FFEB66)](https://huggingface.co/InfiX-ai/InfiMed-Foundation-4B)
 [![](https://img.shields.io/badge/InfiMed--Foundation-Paper-red?labelColor=blue)](https://arxiv.org/pdf/2509.22261) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:UeHWp8X0CEIC'></span></strong>
+[![**HF**](https://img.shields.io/badge/InfiMed--Foundation--4B-HuggingFace-FFDD33?labelColor=blue)](https://huggingface.co/InfiX-ai/InfiMed-Foundation-4B)
 
 - Multimodal large language models (MLLMs) have shown remarkable potential in various domains, yet their application in the medical field is hindered by several challenges. General-purpose MLLMs often lack the specialized knowledge required for medical tasks, leading to uncertain or hallucinatory responses. Knowledge distillation from advanced models struggles to capture domain-specific expertise in radiology and pharmacology. Additionally, the computational cost of continual pretraining with large-scale medical data poses significant efficiency challenges ...
 
@@ -55,8 +55,9 @@ InfiMed: Low-Resource Medical MLLMs with Advancing Understanding and Reasoning
 
 Zeyu Liu$^\*$, **Zhitian Hou$^\*$**, Guanghao Zhu, Zhijie Sang, Congkai Xie, Hongxia Yang
 
-[![**HF**](https://img.shields.io/badge/HuggingFace-InfiMed--RL--3B-blue?logo=huggingface&logoColor=yellow&labelColor=FFEB66)](https://huggingface.co/InfiX-ai/InfiMed-RL-3B)
 [![](https://img.shields.io/badge/InfiMed--RL-Paper-red?labelColor=blue)](https://arxiv.org/pdf/2505.23867) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:UeHWp8X0CEIC'></span></strong>
+[![**HF**](https://img.shields.io/badge/InfiMed--RL--3B-HuggingFace-FFDD33?labelColor=blue)](https://huggingface.co/InfiX-ai/InfiMed-RL-3B)
+[![**HF**](https://img.shields.io/badge/InfiMed--SFT--3B-HuggingFace-FFDD33?labelColor=blue)](https://huggingface.co/InfiX-ai/InfiMed-SFT-3B)
 
 - In this work, we introduce the InfiMed-Series models, including InfiMed-SFT-3B and InfiMed-RL-3B, a set of multimodal large language models (MLLMs) specialized for medical tasks.
 
