@@ -22,12 +22,12 @@ My current research interests lie primarily in **Natural Language Processing (NL
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Our paper "InfiMed-Foundation: Pioneering Advanced Multimodal Medical Models with Compute-Efficient Pre-Training and Multi-Stage Fine-Tuning" has been published on [arXiv](https://arxiv.org/abs/2509.22261).
-- *2025.09*: &nbsp;🎉🎉 Our paper "InfiMed: Low-Resource Medical MLLMs with Advancing Understanding and Reasoning" has been published on [arXiv](https://arxiv.org/abs/2505.23867).
-- *2025.09*: &nbsp;🎉🎉 Our paper "Large Language Models Meet Legal Artificial Intelligence: A Survey" has been published on [arXiv](https://arxiv.org/abs/2509.09969).
-- *2025.07*: &nbsp;🎉🎉 Our paper "QCSH: Quantization Controlled Semantic Hashing for Effective Similar Text Search" has been accepted to **IEEE SMC Conference 2025**. 
-- *2025.04*: &nbsp;🎉🎉 Our paper "KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction" has been accepted to **CogSci 2025**. 
-- *2022.10*: &nbsp;🎉🎉 Our paper "Homogeneous ensemble models for predicting infection levels and mortality of COVID-19 patients: Evidence from China" has been accepted to **Digital Health**. 
+- *2025.09*: &nbsp;🎉 Our paper "InfiMed-Foundation: Pioneering Advanced Multimodal Medical Models with Compute-Efficient Pre-Training and Multi-Stage Fine-Tuning" has been published on [arXiv](https://arxiv.org/abs/2509.22261).
+- *2025.09*: &nbsp;🎉 Our paper "InfiMed: Low-Resource Medical MLLMs with Advancing Understanding and Reasoning" has been published on [arXiv](https://arxiv.org/abs/2505.23867).
+- *2025.09*: &nbsp;🎉 Our paper "Large Language Models Meet Legal Artificial Intelligence: A Survey" has been published on [arXiv](https://arxiv.org/abs/2509.09969).
+- *2025.07*: &nbsp;🎉 Our paper "QCSH: Quantization Controlled Semantic Hashing for Effective Similar Text Search" has been accepted to **IEEE SMC Conference 2025**. 
+- *2025.04*: &nbsp;🎉 Our paper "KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction" has been accepted to **CogSci 2025**. 
+- *2022.10*: &nbsp;🎉 Our paper "Homogeneous ensemble models for predicting infection levels and mortality of COVID-19 patients: Evidence from China" has been accepted to **Digital Health**. 
 
 # 📝 Publications 
 
@@ -39,8 +39,8 @@ InfiMed-Foundation: Pioneering Advanced Multimodal Medical Models with Compute-E
 
 Guanghao Zhu, **Zhitian Hou**, Zeyu Liu, Zhijie Sang, Congkai Xie, Hongxia Yang
 
-[![](https://img.shields.io/badge/InfiMed--Foundation-Paper-red?labelColor=blue)](https://arxiv.org/pdf/2509.22261) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:UeHWp8X0CEIC'></span></strong>
-[![**HF**](https://img.shields.io/badge/InfiMed--Foundation--4B-HuggingFace-FFDD33?labelColor=blue)](https://huggingface.co/InfiX-ai/InfiMed-Foundation-4B)
+[![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=InfiMed-Foundation-4B&labelColor=blue)](https://arxiv.org/pdf/2509.22261) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:UeHWp8X0CEIC'></span></strong>
+[![**HF**](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFDD33?label=InfiMed-Foundation-4B&labelColor=blue)](https://huggingface.co/InfiX-ai/InfiMed-Foundation-4B)
 
 - Multimodal large language models (MLLMs) have shown remarkable potential in various domains, yet their application in the medical field is hindered by several challenges. General-purpose MLLMs often lack the specialized knowledge required for medical tasks, leading to uncertain or hallucinatory responses. Knowledge distillation from advanced models struggles to capture domain-specific expertise in radiology and pharmacology. Additionally, the computational cost of continual pretraining with large-scale medical data poses significant efficiency challenges ...
 
@@ -55,9 +55,9 @@ InfiMed: Low-Resource Medical MLLMs with Advancing Understanding and Reasoning
 
 Zeyu Liu$^\*$, **Zhitian Hou$^\*$**, Guanghao Zhu, Zhijie Sang, Congkai Xie, Hongxia Yang
 
-[![](https://img.shields.io/badge/InfiMed--RL-Paper-red?labelColor=blue)](https://arxiv.org/pdf/2505.23867) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:UeHWp8X0CEIC'></span></strong>
-[![**HF**](https://img.shields.io/badge/InfiMed--RL--3B-HuggingFace-FFDD33?labelColor=blue)](https://huggingface.co/InfiX-ai/InfiMed-RL-3B)
-[![**HF**](https://img.shields.io/badge/InfiMed--SFT--3B-HuggingFace-FFDD33?labelColor=blue)](https://huggingface.co/InfiX-ai/InfiMed-SFT-3B)
+[![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=InfiMed&labelColor=blue)](https://arxiv.org/pdf/2505.23867) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:UeHWp8X0CEIC'></span></strong>
+[![**HF**](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFDD33?label=InfiMed-RL-3B&labelColor=blue)](https://huggingface.co/InfiX-ai/InfiMed-RL-3B)
+[![**HF**](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFDD33?label=InfiMed-SFT-3B&labelColor=blue)](https://huggingface.co/InfiX-ai/InfiMed-SFT-3B)
 
 - In this work, we introduce the InfiMed-Series models, including InfiMed-SFT-3B and InfiMed-RL-3B, a set of multimodal large language models (MLLMs) specialized for medical tasks.
 
@@ -72,8 +72,8 @@ Large Language Models Meet Legal Artificial Intelligence: A Survey
 **Zhitian Hou**, Zihan Ye, Nanli Zeng, Tianyong Hao, Kun Zeng
 
 <!-- [**Code**](https://github.com/ZhitianHou/LLMs4LegalAI)  -->
+[![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=LLM4LegalAI-Survey&labelColor=blue)](https://arxiv.org/pdf/2509.09969) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:zYLM7Y9cAGgC'></span></strong>
 [![](https://img.shields.io/github/stars/ZhitianHou/LLMs4LegalAI?style=social)](https://github.com/ZhitianHou/LLMs4LegalAI)
-[![](https://img.shields.io/badge/LLM4LegalAI--Survey-Paper-red?labelColor=blue)](https://arxiv.org/pdf/2509.09969) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:zYLM7Y9cAGgC'></span></strong>
 
 
 - This paper provides a comprehensive review of 16 legal LLMs series and 47 LLM-based frameworks for legal tasks, and also gather 15 benchmarks and 29 datasets to evaluate different legal capabilities. Additionally, we analyse the challenges and discuss future directions for LLMbased approaches in the legal domain. We hope this paper provides a systematic introduction for beginners and encourages future research in this field.
@@ -101,8 +101,8 @@ KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction
 **Zhitian Hou**, Jinlin Li, Ge Lin, Kun Zeng
 
 <!-- [**Code**](https://github.com/ZhitianHou/KnowJudge)  -->
+[![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=KnowJudge&labelColor=blue)](https://escholarship.org/uc/item/28w694zd) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:IjCSPb-OGe4C'></span></strong>
 [![](https://img.shields.io/github/stars/ZhitianHou/KnowJudge?style=social)](https://github.com/ZhitianHou/KnowJudge) 
-[![](https://img.shields.io/badge/KnowJudge-Paper-red?labelColor=blue)](https://escholarship.org/uc/item/28w694zd) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:IjCSPb-OGe4C'></span></strong>
 - We proposed KnowJudge, a knowledge-driven cognitive simulation framework and introduces the Law Keyword Recognition (LKR) dataset. 
 </div>
 </div>
@@ -114,7 +114,7 @@ Homogeneous ensemble models for predicting infection levels and mortality of COV
 
 Jiafeng Wang$^\*$, Xianlong Zhou$^\*$, **Zhitian Hou$^\*$**, Xiaoya Xu, Yueyue Zhao, Shanshan Chen, Jun Zhang, Lina Shao, Rong Yan, Mingshan Wang, Minghua Ge, Tianyong Hao, Yuexing Tu, and Haijun Huang
 
-[![](https://img.shields.io/badge/COVID--19--Analysis-Paper-red?labelColor=blue)](https://journals.sagepub.com/doi/epub/10.1177/20552076221133692) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:qjMakFHDy7sC'></span></strong>
+[![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=COVID-19-Analysis&labelColor=blue)](https://journals.sagepub.com/doi/epub/10.1177/20552076221133692) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:qjMakFHDy7sC'></span></strong>
 - We proposed two homogeneous ensemble models based on clinical features of COVID-19 patients for predicting infection levels and mortality.
 </div>
 </div>
