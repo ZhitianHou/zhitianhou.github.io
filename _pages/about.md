@@ -42,7 +42,7 @@ Guanghao Zhu, **Zhitian Hou**, Zeyu Liu, Zhijie Sang, Congkai Xie, Hongxia Yang
 [![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=InfiMed-Foundation-4B&labelColor=blue)](https://arxiv.org/pdf/2509.22261) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:UeHWp8X0CEIC'></span></strong>
 [![**HF**](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFDD33?label=InfiMed-Foundation-4B&labelColor=blue)](https://huggingface.co/InfiX-ai/InfiMed-Foundation-4B)
 
-- Multimodal large language models (MLLMs) have shown remarkable potential in various domains, yet their application in the medical field is hindered by several challenges. General-purpose MLLMs often lack the specialized knowledge required for medical tasks, leading to uncertain or hallucinatory responses. Knowledge distillation from advanced models struggles to capture domain-specific expertise in radiology and pharmacology. Additionally, the computational cost of continual pretraining with large-scale medical data poses significant efficiency challenges ...
+- Multimodal large language models (MLLMs) have shown remarkable potential in various domains, yet their application in the medical field is hindered by several challenges. General-purpose MLLMs often lack the specialized knowledge required for medical tasks, leading to uncertain or hallucinatory responses ...
 
 </div>
 </div>
@@ -76,7 +76,7 @@ Large Language Models Meet Legal Artificial Intelligence: A Survey
 [![](https://img.shields.io/github/stars/ZhitianHou/LLMs4LegalAI?style=social)](https://github.com/ZhitianHou/LLMs4LegalAI)
 
 
-- This paper provides a comprehensive review of 16 legal LLMs series and 47 LLM-based frameworks for legal tasks, and also gather 15 benchmarks and 29 datasets to evaluate different legal capabilities. Additionally, we analyse the challenges and discuss future directions for LLMbased approaches in the legal domain. We hope this paper provides a systematic introduction for beginners and encourages future research in this field.
+- This paper provides a comprehensive review of 16 legal LLMs series and 47 LLM-based frameworks for legal tasks, and also gather 15 benchmarks and 29 datasets to evaluate different legal capabilities. Additionally, we analyse the challenges and discuss future directions for LLMbased approaches in the legal domain.
 
 </div>
 </div>
