@@ -31,6 +31,7 @@ My current research interests lie primarily in **Natural Language Processing (NL
 
 # 📝 Publications 
 
+## 🩺 Medical MLLM
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/InfiMed-Foundation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,6 +65,8 @@ Zeyu Liu$^\*$, **Zhitian Hou$^\*$**, Guanghao Zhu, Zhijie Sang, Congkai Xie, Hon
 </div>
 </div>
 
+## ⚖ Legal AI
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/LLM4LegalAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -77,18 +80,6 @@ Large Language Models Meet Legal Artificial Intelligence: A Survey
 
 
 - This paper provides a comprehensive review of 16 legal LLMs series and 47 LLM-based frameworks for legal tasks, and also gather 15 benchmarks and 29 datasets to evaluate different legal capabilities. Additionally, we analyse the challenges and discuss future directions for LLMbased approaches in the legal domain.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SMC Conference 2025</div><img src='images/QCSH.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-QCSH: Quantization Controlled Semantic Hashing for Effective Similar Text Search
-
-Zihan Ye, **Zhitian Hou**, Ge Lin, Kun Zeng
-
-- We propose an unsupervised novel semantic text hashing framework, Quantization Controlled Semantic Hashing (QCSH), which enhances feature representation while refines the binarization process.
 
 </div>
 </div>
@@ -107,17 +98,23 @@ KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Digital Health</div><img src='images/Homogeneous.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SMC Conference 2025</div><img src='images/QCSH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Homogeneous ensemble models for predicting infection levels and mortality of COVID-19 patients: Evidence from China
+QCSH: Quantization Controlled Semantic Hashing for Effective Similar Text Search
 
-Jiafeng Wang$^\*$, Xianlong Zhou$^\*$, **Zhitian Hou$^\*$**, Xiaoya Xu, Yueyue Zhao, Shanshan Chen, Jun Zhang, Lina Shao, Rong Yan, Mingshan Wang, Minghua Ge, Tianyong Hao, Yuexing Tu, and Haijun Huang
+Zihan Ye, **Zhitian Hou**, Ge Lin, Kun Zeng
 
-[![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=COVID-19-Analysis&labelColor=blue)](https://journals.sagepub.com/doi/epub/10.1177/20552076221133692) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:qjMakFHDy7sC'></span></strong>
-- We proposed two homogeneous ensemble models based on clinical features of COVID-19 patients for predicting infection levels and mortality.
+- We propose an unsupervised novel semantic text hashing framework, Quantization Controlled Semantic Hashing (QCSH), which enhances feature representation while refines the binarization process.
+
 </div>
 </div>
+
+## Others
+- ``AAAI 2021`` [SongMASS: Automatic Song Writing with Pre-training and Alignment Constraint](https://arxiv.org/abs/2012.05168), Zhonghao Sheng, Kaitao Song, Xu Tan, **Yi Ren**, et al.
+
+- `Digital Health` Homogeneous ensemble models for predicting infection levels and mortality of COVID-19 patients: Evidence from China, Jiafeng Wang$^\*$, Xianlong Zhou$^\*$, **Zhitian Hou$^\*$**, et al. [![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=COVID-19-Analysis&labelColor=blue)](https://journals.sagepub.com/doi/epub/10.1177/20552076221133692) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:qjMakFHDy7sC'></span></strong>
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
