@@ -112,8 +112,6 @@ Zihan Ye, **Zhitian Hou**, Ge Lin, Kun Zeng
 </div>
 
 ## Others
-- ``AAAI 2021`` [SongMASS: Automatic Song Writing with Pre-training and Alignment Constraint](https://arxiv.org/abs/2012.05168), Zhonghao Sheng, Kaitao Song, Xu Tan, **Yi Ren**, et al.
-
 - `Digital Health` Homogeneous ensemble models for predicting infection levels and mortality of COVID-19 patients: Evidence from China, Jiafeng Wang$^\*$, Xianlong Zhou$^\*$, **Zhitian Hou$^\*$**, et al. [![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=COVID-19-Analysis&labelColor=blue)](https://journals.sagepub.com/doi/epub/10.1177/20552076221133692) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:qjMakFHDy7sC'></span></strong>
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
