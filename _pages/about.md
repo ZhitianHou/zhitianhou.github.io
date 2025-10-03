@@ -40,8 +40,8 @@ InfiMed-Foundation: Pioneering Advanced Multimodal Medical Models with Compute-E
 
 Guanghao Zhu, **Zhitian Hou**, Zeyu Liu, Zhijie Sang, Congkai Xie, Hongxia Yang
 
-[![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=InfiMed-Foundation-4B&labelColor=blue)](https://arxiv.org/pdf/2509.22261) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:UeHWp8X0CEIC'></span></strong>
-[![**HF**](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFDD33?label=InfiMed-Foundation-4B&labelColor=blue)](https://huggingface.co/InfiX-ai/InfiMed-Foundation-4B)
+[![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=InfiMed-Foundation-4B&labelColor=1a73e8)](https://arxiv.org/pdf/2509.22261) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:UeHWp8X0CEIC'></span></strong>
+[![**HF**](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFDD33?label=InfiMed-Foundation-4B&labelColor=1a73e8)](https://huggingface.co/InfiX-ai/InfiMed-Foundation-4B)
 
 - Multimodal large language models (MLLMs) have shown remarkable potential in various domains, yet their application in the medical field is hindered by several challenges. General-purpose MLLMs often lack the specialized knowledge required for medical tasks, leading to uncertain or hallucinatory responses ...
 
@@ -56,16 +56,16 @@ InfiMed: Low-Resource Medical MLLMs with Advancing Understanding and Reasoning
 
 Zeyu Liu$^\*$, **Zhitian Hou$^\*$**, Guanghao Zhu, Zhijie Sang, Congkai Xie, Hongxia Yang
 
-[![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=InfiMed&labelColor=blue)](https://arxiv.org/pdf/2505.23867) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:UeHWp8X0CEIC'></span></strong>
-[![**HF**](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFDD33?label=InfiMed-RL-3B&labelColor=blue)](https://huggingface.co/InfiX-ai/InfiMed-RL-3B)
-[![**HF**](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFDD33?label=InfiMed-SFT-3B&labelColor=blue)](https://huggingface.co/InfiX-ai/InfiMed-SFT-3B)
+[![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=InfiMed&labelColor=1a73e8)](https://arxiv.org/pdf/2505.23867) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:UeHWp8X0CEIC'></span></strong>
+[![**HF**](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFDD33?label=InfiMed-RL-3B&labelColor=1a73e8)](https://huggingface.co/InfiX-ai/InfiMed-RL-3B)
+[![**HF**](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFDD33?label=InfiMed-SFT-3B&labelColor=1a73e8)](https://huggingface.co/InfiX-ai/InfiMed-SFT-3B)
 
 - In this work, we introduce the InfiMed-Series models, including InfiMed-SFT-3B and InfiMed-RL-3B, a set of multimodal large language models (MLLMs) specialized for medical tasks.
 
 </div>
 </div>
 
-## ⚖ Legal AI
+## ⚖️ Legal AI
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/LLM4LegalAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -75,7 +75,7 @@ Large Language Models Meet Legal Artificial Intelligence: A Survey
 **Zhitian Hou**, Zihan Ye, Nanli Zeng, Tianyong Hao, Kun Zeng
 
 <!-- [**Code**](https://github.com/ZhitianHou/LLMs4LegalAI)  -->
-[![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=LLM4LegalAI-Survey&labelColor=blue)](https://arxiv.org/pdf/2509.09969) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:zYLM7Y9cAGgC'></span></strong>
+[![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=LLM4LegalAI-Survey&labelColor=1a73e8)](https://arxiv.org/pdf/2509.09969) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:zYLM7Y9cAGgC'></span></strong>
 [![](https://img.shields.io/github/stars/ZhitianHou/LLMs4LegalAI?style=social)](https://github.com/ZhitianHou/LLMs4LegalAI)
 
 
@@ -92,27 +92,15 @@ KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction
 **Zhitian Hou**, Jinlin Li, Ge Lin, Kun Zeng
 
 <!-- [**Code**](https://github.com/ZhitianHou/KnowJudge)  -->
-[![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=KnowJudge&labelColor=blue)](https://escholarship.org/uc/item/28w694zd) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:IjCSPb-OGe4C'></span></strong>
+[![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=KnowJudge&labelColor=1a73e8)](https://escholarship.org/uc/item/28w694zd) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:IjCSPb-OGe4C'></span></strong>
 [![](https://img.shields.io/github/stars/ZhitianHou/KnowJudge?style=social)](https://github.com/ZhitianHou/KnowJudge) 
 - We proposed KnowJudge, a knowledge-driven cognitive simulation framework and introduces the Law Keyword Recognition (LKR) dataset. 
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SMC Conference 2025</div><img src='images/QCSH.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-QCSH: Quantization Controlled Semantic Hashing for Effective Similar Text Search
-
-Zihan Ye, **Zhitian Hou**, Ge Lin, Kun Zeng
-
-- We propose an unsupervised novel semantic text hashing framework, Quantization Controlled Semantic Hashing (QCSH), which enhances feature representation while refines the binarization process.
-
-</div>
-</div>
-
 ## Others
-- `Digital Health` Homogeneous ensemble models for predicting infection levels and mortality of COVID-19 patients: Evidence from China, Jiafeng Wang$^\*$, Xianlong Zhou$^\*$, **Zhitian Hou$^\*$**, et al. [![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=COVID-19-Analysis&labelColor=blue)](https://journals.sagepub.com/doi/epub/10.1177/20552076221133692) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:qjMakFHDy7sC'></span></strong>
+- <code style="background-color:#1a73e8; color:#fff; padding:1px 1px; border-radius:4px; font-weight:500;">IEEE SMC Conference 2025</code> [QCSH: Quantization Controlled Semantic Hashing for Effective Similar Text Search](), Zihan Ye, **Zhitian Hou**, Ge Lin, Kun Zeng
+- <code style="background-color:#1a73e8; color:#fff; padding:1px 1px; border-radius:4px; font-weight:500;">Digital Health</code> [Homogeneous ensemble models for predicting infection levels and mortality of COVID-19 patients: Evidence from China](https://journals.sagepub.com/doi/epub/10.1177/20552076221133692), Jiafeng Wang$^\*$, Xianlong Zhou$^\*$, **Zhitian Hou$^\*$**, et al. [![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=COVID-19-Analysis&labelColor=blue)](https://journals.sagepub.com/doi/epub/10.1177/20552076221133692) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:qjMakFHDy7sC'></span></strong>
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
