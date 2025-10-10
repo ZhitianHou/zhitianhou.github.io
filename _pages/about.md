@@ -98,7 +98,13 @@ KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction
 </div>
 </div>
 
-- <code style="background-color:#1a73e8; color:#fff; padding:1px 1px; border-radius:4px; font-weight:500;">Arxiv 2025</code> [ShiZhi: A Lightweight Large Model for Court View Generation](), Zhitian Hou, Kun Zeng
+- <code style="background-color:#1a73e8; color:#fff; padding:1px 1px; border-radius:4px; font-weight:500;">Arxiv 2025</code> [ShiZhi: A Lightweight Large Model for Court View Generation](), Zhitian Hou, Kun Zeng [![](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFDD33?label=ShiZhi&labelColor=1a73e8)](https://huggingface.co/TIM0927/ShiZhi) [![](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFDD33?label=CCVG&labelColor=1a73e8)](https://huggingface.co/datasets/TIM0927/CCVG) 
+<a href="https://modelscope.cn/models/freshman8888/ShiZhi">
+  <img src="https://img.shields.io/badge/&#x1F916%20ModelScope-5945D0?label=ShiZhi&labelColor=1a73e8" alt="ModelScope Link"/>
+</a>
+<a href="https://www.modelscope.cn/datasets/ZhitianHou/CCVG">
+  <img src="https://img.shields.io/badge/&#x1F916%20ModelScope-5945D0?label=CCVG&labelColor=1a73e8" alt="ModelScope Link"/>
+</a>
 
 ## Others
 - <code style="background-color:#1a73e8; color:#fff; padding:1px 1px; border-radius:4px; font-weight:500;">IEEE SMC Conference 2025</code> [QCSH: Quantization Controlled Semantic Hashing for Effective Similar Text Search](), Zihan Ye, **Zhitian Hou**, Ge Lin, Kun Zeng
