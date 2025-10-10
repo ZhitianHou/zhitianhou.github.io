@@ -98,6 +98,8 @@ KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction
 </div>
 </div>
 
+- <code style="background-color:#1a73e8; color:#fff; padding:1px 1px; border-radius:4px; font-weight:500;">Arxiv 2025</code> [ShiZhi: A Lightweight Large Model for Court View Generation](), Zhitian Hou, Kun Zeng
+
 ## Others
 - <code style="background-color:#1a73e8; color:#fff; padding:1px 1px; border-radius:4px; font-weight:500;">IEEE SMC Conference 2025</code> [QCSH: Quantization Controlled Semantic Hashing for Effective Similar Text Search](), Zihan Ye, **Zhitian Hou**, Ge Lin, Kun Zeng
 - <code style="background-color:#1a73e8; color:#fff; padding:1px 1px; border-radius:4px; font-weight:500;">Digital Health</code> [Homogeneous ensemble models for predicting infection levels and mortality of COVID-19 patients: Evidence from China](https://journals.sagepub.com/doi/epub/10.1177/20552076221133692), Jiafeng Wang$^\*$, Xianlong Zhou$^\*$, **Zhitian Hou$^\*$**, et al. [![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=COVID-19-Analysis&labelColor=1a73e8)](https://journals.sagepub.com/doi/epub/10.1177/20552076221133692) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:qjMakFHDy7sC'></span></strong>
