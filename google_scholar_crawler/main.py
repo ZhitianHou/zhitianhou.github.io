@@ -3,8 +3,13 @@ import jsonpickle
 import json
 from datetime import datetime
 import os
+import logging
+
+logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
+print('Fetching Google Scholar author profile...', flush=True)
 
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
+print('Author profile retrieved; fetching citation counts and publications...', flush=True)
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
 name = author['name']
 author['updated'] = str(datetime.now())

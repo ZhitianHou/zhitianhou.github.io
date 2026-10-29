@@ -32,7 +32,8 @@ jobs:
 
       - name: Fetch citation data
         working-directory: google_scholar_crawler
-        run: python main.py
+        timeout-minutes: 5
+        run: python -u main.py
         env:
           # Match the profile in _config.yml when no repository override exists.
           GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID || vars.GOOGLE_SCHOLAR_ID || 'ma9gcQsAAAAJ' }}
@@ -48,4 +49,3 @@ jobs:
           git add gs_data.json gs_data_shieldsio.json
           git commit -m "Updated Citation Data"
           git -c "http.extraheader=AUTHORIZATION: basic $(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)" push "https://github.com/${GITHUB_REPOSITORY}.git" HEAD:google-scholar-stats --force
-
