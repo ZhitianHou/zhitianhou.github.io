@@ -1,4 +1,4 @@
-from scholarly import scholarly
+from scholarly import scholarly, ProxyGenerator
 import jsonpickle
 import json
 from datetime import datetime
@@ -6,6 +6,11 @@ import os
 import logging
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
+if os.environ.get('SCHOLAR_PROXY_URL'):
+    pg = ProxyGenerator()
+    pg.SingleProxy(http=os.environ['SCHOLAR_PROXY_URL'], https=os.environ['SCHOLAR_PROXY_URL'])
+    scholarly.use_proxy(pg, pg)
+
 print('Fetching Google Scholar author profile...', flush=True)
 
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
