@@ -1,17 +1,17 @@
 # 手动核对 Google Scholar 后修改引用数和 updated 日期。
-# 初始值来自历史缓存，并非今天重新抓取。
-updated: "2026-09-05 11:45:04.284661"
-citedby: 28
+# 2026-10-30 从用户已打开的 Google Scholar 页面人工核对。
+updated: "2026-10-30"
+citedby: 39
 publications:
   "ma9gcQsAAAAJ:zYLM7Y9cAGgC":
     title: "Large Language Models Meet Legal Artificial Intelligence: A Survey"
-    num_citations: 17
+    num_citations: 24
   "ma9gcQsAAAAJ:UeHWp8X0CEIC":
     title: "Infi-Med: Low-Resource Medical MLLMs with Robust Reasoning Evaluation"
-    num_citations: 5
+    num_citations: 7
   "ma9gcQsAAAAJ:Y0pCki6q_DkC":
     title: "ShiZhi: A Chinese Lightweight Large Language Model for Court View Generation"
-    num_citations: 4
+    num_citations: 5
   "ma9gcQsAAAAJ:Tyk-4Ss8FVUC":
     title: "InfiMed-Foundation: Pioneering Advanced Multimodal Medical Models with Compute-Efficient Pre-Training and Multi-Stage Fine-Tuning"
     num_citations: 1
@@ -21,6 +21,7 @@ publications:
   "ma9gcQsAAAAJ:LkGwnXOMwfcC":
     title: "Evaluating Counterfactual Sensitivity to Patient Information in Medication-Safety Reasoning"
     num_citations: 0
+  # 此论文未出现在本次页面中，保留旧记录；此条引用数未重新核实。
   "ma9gcQsAAAAJ:_FxGoFyzp5QC":
     title: "PMC-InterCPT: Rethinking Biomedical Interleaved Data for Multimodal Continued Pretraining"
     num_citations: 0
@@ -32,4 +33,10 @@ publications:
     num_citations: 0
   "ma9gcQsAAAAJ:IjCSPb-OGe4C":
     title: "KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction"
+    num_citations: 1
+  "ma9gcQsAAAAJ:hqOjcs7Dif8C":
+    title: "Generating Complete Court Judgments with Large Language Models: A Study on CMML"
+    num_citations: 0
+  "ma9gcQsAAAAJ:UebtZRa9Y70C":
+    title: "FusionEval: Benchmarking Model Fusion for Large Language Models"
     num_citations: 0
