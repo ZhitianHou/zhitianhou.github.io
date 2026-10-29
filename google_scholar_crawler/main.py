@@ -11,6 +11,20 @@ if os.environ.get('SCHOLAR_PROXY_URL'):
     pg.SingleProxy(http=os.environ['SCHOLAR_PROXY_URL'], https=os.environ['SCHOLAR_PROXY_URL'])
     scholarly.use_proxy(pg, pg)
 
+# scholarly 1.5.1 hard-codes the .com origin. Route its page fetches to .com.hk.
+from scholarly._navigator import Navigator
+from urllib.parse import urlsplit, urlunsplit
+
+_original_get_page = Navigator._get_page
+
+def _get_hong_kong_page(self, pagerequest, *args, **kwargs):
+    parts = urlsplit(pagerequest)
+    if parts.hostname == 'scholar.google.com':
+        pagerequest = urlunsplit(parts._replace(netloc='scholar.google.com.hk'))
+    return _original_get_page(self, pagerequest, *args, **kwargs)
+
+Navigator._get_page = _get_hong_kong_page
+
 print('Fetching Google Scholar author profile...', flush=True)
 
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
