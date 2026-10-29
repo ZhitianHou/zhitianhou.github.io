@@ -30,11 +30,31 @@ jobs:
       - name: Install dependencies
         run: python -m pip install -r google_scholar_crawler/requirements.txt pyyaml==6.0.3
 
+      - name: Download official Mihomo release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          mkdir -p "$RUNNER_TEMP/scholar-proxy"
+          gh api repos/MetaCubeX/mihomo/releases/latest > "$RUNNER_TEMP/mihomo-release.json"
+          url=$(python -c 'import json,os; d=json.load(open(os.environ["RUNNER_TEMP"]+"/mihomo-release.json")); print(next(a["browser_download_url"] for a in d["assets"] if a["name"].startswith("mihomo-linux-amd64-compatible-") and a["name"].endswith(".gz")))')
+          curl --fail --location --retry 2 "$url" -o "$RUNNER_TEMP/scholar-proxy/mihomo.gz"
+          gzip -d "$RUNNER_TEMP/scholar-proxy/mihomo.gz"
+          chmod 700 "$RUNNER_TEMP/scholar-proxy/mihomo"
+
+      - name: Start proxy and check Scholar access
+        timeout-minutes: 6
+        run: python -u google_scholar_crawler/start_proxy.py
+        env:
+          CLASH_CONFIG: ${{ secrets.CLASH_CONFIG }}
+          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID || vars.GOOGLE_SCHOLAR_ID || 'ma9gcQsAAAAJ' }}
+
       - name: Fetch citation data
         working-directory: google_scholar_crawler
         timeout-minutes: 5
         run: python -u main.py
         env:
+          SCHOLAR_PROXY_URL: http://127.0.0.1:7890
           # Match the profile in _config.yml when no repository override exists.
           GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID || vars.GOOGLE_SCHOLAR_ID || 'ma9gcQsAAAAJ' }}
 
@@ -49,3 +69,11 @@ jobs:
           git add gs_data.json gs_data_shieldsio.json
           git commit -m "Updated Citation Data"
           git -c "http.extraheader=AUTHORIZATION: basic $(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)" push "https://github.com/${GITHUB_REPOSITORY}.git" HEAD:google-scholar-stats --force
+
+      - name: Stop proxy and remove private configuration
+        if: always()
+        run: |
+          if [ -f "$RUNNER_TEMP/scholar-proxy/pid" ]; then
+            kill "$(cat "$RUNNER_TEMP/scholar-proxy/pid")" 2>/dev/null || true
+          fi
+          rm -f "$RUNNER_TEMP/scholar-proxy/config.yaml" "$RUNNER_TEMP/scholar-proxy/proxy.log"

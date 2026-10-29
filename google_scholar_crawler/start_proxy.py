@@ -13,7 +13,7 @@ import requests
 root = Path(os.environ['RUNNER_TEMP']) / 'scholar-proxy'
 root.mkdir(mode=0o700, exist_ok=True)
 nodes = yaml.safe_load(gzip.decompress(base64.b64decode(os.environ['CLASH_CONFIG']))).get('proxies', [])
-nodes = [node for node in nodes if node.get('name') == '🇺🇸|美国-直连']
+nodes = [node for node in nodes if node.get('name') == '🇭🇰|香港家宽-中转 01']
 if not nodes:
     raise SystemExit('CLASH_CONFIG contains no proxy nodes')
 # Discard local settings, controllers, rules and subscriptions from the supplied config.
@@ -46,7 +46,7 @@ probe.proxies = {'http': 'http://127.0.0.1:7890', 'https': 'http://127.0.0.1:789
 for index, node in enumerate(nodes[:20], 1):
     control.put('http://127.0.0.1:9090/proxies/SCHOLAR', json={'name': node['name']}, timeout=3).raise_for_status()
     try:
-        response = probe.get('https://scholar.google.com/citations',
+        response = probe.get('https://scholar.google.com.hk/citations',
                              params={'user': os.environ['GOOGLE_SCHOLAR_ID'], 'hl': 'en'}, timeout=12)
         if response.status_code == 200 and 'gsc_prf_in' in response.text:
             print(f'Proxy candidate {index}: Scholar profile accessible', flush=True)
