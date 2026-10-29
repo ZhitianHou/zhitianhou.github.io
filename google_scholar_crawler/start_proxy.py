@@ -39,6 +39,10 @@ for _ in range(30):
         time.sleep(1)
 else:
     raise SystemExit('Proxy failed to start; configuration details withheld')
+if os.environ.get('SCHOLAR_DIAGNOSTIC') == '1':
+    print('Selected proxy started for diagnostics', flush=True)
+    raise SystemExit(0)
+
 probe = requests.Session()
 probe.trust_env = False
 probe.proxies = {'http': 'http://127.0.0.1:7890', 'https': 'http://127.0.0.1:7890'}
