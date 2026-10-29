@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 I am Zhitian Hou(侯智天), a third-year Master's student in Computer Technology at **[SYSU](https://www.sysu.edu.cn/sysuen/)**, advised by **[Prof. Kun Zeng](https://cse.sysu.edu.cn/teacher/ZengKun)**. I am currently an intern at **[Infix.ai](https://infix-ai.com/)**, under the supervision of **[Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/)**. Prior to this, I received my Bachelor's degree in 2023 from SCNU, where I studied in the **[TAM Lab](https://tony-hao.github.io/TAMLab/)** under the supervision of **[Prof. Tianyong Hao](https://www.scholat.com/haoty.en)**. 
@@ -40,7 +33,7 @@ InfiMed-Foundation: Pioneering Advanced Multimodal Medical Models with Compute-E
 
 Guanghao Zhu, **Zhitian Hou**, Zeyu Liu, Zhijie Sang, Congkai Xie, Hongxia Yang
 
-[![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=InfiMed-Foundation-4B&labelColor=1a73e8)](https://arxiv.org/pdf/2509.22261) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:UeHWp8X0CEIC'></span></strong>
+[![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=InfiMed-Foundation-4B&labelColor=1a73e8)](https://arxiv.org/pdf/2509.22261) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 [![**HF**](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFDD33?label=InfiMed-Foundation-4B&labelColor=1a73e8)](https://huggingface.co/InfiX-ai/InfiMed-Foundation-4B)
 
 - Multimodal large language models (MLLMs) have shown remarkable potential in various domains, yet their application in the medical field is hindered by several challenges. General-purpose MLLMs often lack the specialized knowledge required for medical tasks, leading to uncertain or hallucinatory responses ...
