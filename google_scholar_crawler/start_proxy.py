@@ -13,6 +13,7 @@ import requests
 root = Path(os.environ['RUNNER_TEMP']) / 'scholar-proxy'
 root.mkdir(mode=0o700, exist_ok=True)
 nodes = yaml.safe_load(gzip.decompress(base64.b64decode(os.environ['CLASH_CONFIG']))).get('proxies', [])
+nodes = [node for node in nodes if node.get('name') == '🇺🇸|美国-直连']
 if not nodes:
     raise SystemExit('CLASH_CONFIG contains no proxy nodes')
 # Discard local settings, controllers, rules and subscriptions from the supplied config.
