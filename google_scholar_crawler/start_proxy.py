@@ -1,5 +1,7 @@
 """Start a loopback-only Mihomo proxy using nodes from an Actions secret."""
 import json
+import base64
+import gzip
 import os
 from pathlib import Path
 import subprocess
@@ -10,7 +12,7 @@ import requests
 
 root = Path(os.environ['RUNNER_TEMP']) / 'scholar-proxy'
 root.mkdir(mode=0o700, exist_ok=True)
-nodes = yaml.safe_load(os.environ['CLASH_CONFIG']).get('proxies', [])
+nodes = yaml.safe_load(gzip.decompress(base64.b64decode(os.environ['CLASH_CONFIG']))).get('proxies', [])
 if not nodes:
     raise SystemExit('CLASH_CONFIG contains no proxy nodes')
 # Discard local settings, controllers, rules and subscriptions from the supplied config.
