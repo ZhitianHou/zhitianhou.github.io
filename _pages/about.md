@@ -10,8 +10,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Zhitian Hou(侯智天), a third-year Master's student in Computer Technology at **[SYSU](https://www.sysu.edu.cn/sysuen/)**, advised by **[Prof. Kun Zeng](https://cse.sysu.edu.cn/teacher/ZengKun)**. I am currently an intern at **[Infix.ai](https://infix-ai.com/)**, under the supervision of **[Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/)**. Prior to this, I received my Bachelor's degree in 2023 from SCNU, where I studied in the **[TAM Lab](https://tony-hao.github.io/TAMLab/)** under the supervision of **[Prof. Tianyong Hao](https://www.scholat.com/haoty.en)**. 
-My current research interests lie primarily in **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **Medical MLLMs**, with previous research experience in **Legal AI**.
+I am Zhitian Hou (侯智天), a first-year PhD student at **[The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)**, advised by **[Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/)**. I received my Master's degree in Computer Technology from **[SYSU](https://www.sysu.edu.cn/sysuen/)** in 2026, advised by **[Prof. Kun Zeng](https://cse.sysu.edu.cn/teacher/ZengKun)**. Prior to this, I received my Bachelor's degree in 2023 from SCNU, where I studied in the **[TAM Lab](https://tony-hao.github.io/TAMLab/)** under the supervision of **[Prof. Tianyong Hao](https://www.scholat.com/haoty.en)**.
+My current research interests lie primarily in **Multimodal Large Language Models (MLLMs)** and **Diffusion Large Language Models (DLLMs)**.
 
 
 # 🔥 News
@@ -109,7 +109,8 @@ KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction
 - *2021.04* Finalist (F Award), Mathematical Contest in Modeling (MCM), COMAP
 
 # 📖 Educations
-- *2023.09 - present*, Master, Computer Technology, School of Computer Science and Engineering, Sun Yat-sen University.
+- *2026.09 - present*, PhD, The Hong Kong Polytechnic University.
+- *2023.09 - 2026.06*, Master, Computer Technology, School of Computer Science and Engineering, Sun Yat-sen University.
 - *2019.09 - 2023.06*, Undergraduate, Artificial Intelligence, School of Computer Science, South China Normal University. 
 
 <!-- # 💬 Invited Talks
@@ -117,5 +118,5 @@ KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.06 - present*, Research Intern, [Infix.ai](https://infix-ai.com/), Shenzhen.
+- *2025.06 - 2026.08*, Research Intern, [Infix.ai](https://infix-ai.com/), Shenzhen.
 - *2022.09 - 2023.06*, Research Intern, [TAM Lab](https://tony-hao.github.io/TAMLab/), Guangzhou.

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhitian's Home"
-description              : "MLLMs Reasoning / Medical Applications"
+description              : "Agent/DLLM/Medical Applications"
 repository               : "ZhitianHou/zhitianhou.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhitian Hou"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Sun Yat-sen University"
-  location         : "Guangzhou, China"
+  bio              : "The Hong Kong Polytechnic University"
+  location         : "HongKong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=ma9gcQsAAAAJ"
-  email            : "houzht@mail2.sysu.edu.cn"
+  email            : "zhitian.hou@connect.polyu.hk"
   researchgate     : "https://www.researchgate.net/profile/Zhitian-Hou"
   uri              :
   bitbucket        :
