@@ -132,7 +132,7 @@ KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction
 - *2021.04* Finalist (F Award), Mathematical Contest in Modeling (MCM), COMAP
 
 # 📖 Educations
-- *2026.09 - present*, PhD, The Hong Kong Polytechnic University.
+- *2026.09 - present*, PhD, Department of Computing, The Hong Kong Polytechnic University.
 - *2023.09 - 2026.06*, Master, Computer Technology, School of Computer Science and Engineering, Sun Yat-sen University.
 - *2019.09 - 2023.06*, Undergraduate, Artificial Intelligence, School of Computer Science, South China Normal University.
 
