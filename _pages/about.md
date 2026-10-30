@@ -74,7 +74,7 @@ Zeyu Liu$^\*$, **Zhitian Hou$^\*$**, Guanghao Zhu, Zhijie Sang, Congkai Xie, Hon
 </div>
 </div>
 
-- <code style="background-color:#1a73e8; color:#fff; padding:1px 1px; border-radius:4px; font-weight:500;">NeurIPS 2026</code> [NPCBench: A Clinical Apprenticeship Benchmark for Guideline-Constrained Care-Pathway Reasoning in Nasopharyngeal Carcinoma](https://neurips.cc/virtual/2026/loc/sydney/poster/139689), Pengkai Wang, Wei-Wei Zhang, Yan Li, Min Tang, **Zhitian Hou** et al. [![](https://img.shields.io/badge/NeurIPS%202026-red?label=NPCBench&labelColor=1a73e8)](https://neurips.cc/virtual/2026/loc/sydney/poster/139689)
+- <code style="background-color:#1a73e8; color:#fff; padding:1px 1px; border-radius:4px; font-weight:500;">NeurIPS 2026</code> [NPCBench: A Clinical Apprenticeship Benchmark for Guideline-Constrained Care-Pathway Reasoning in Nasopharyngeal Carcinoma](https://neurips.cc/virtual/2026/loc/sydney/poster/139689), Pengkai Wang, Wei-Wei Zhang, Yan Li, Min Tang, **Zhitian Hou** et al. [![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=NPCBench&labelColor=1a73e8)](https://neurips.cc/virtual/2026/loc/sydney/poster/139689)
 
 ## ⚖️ Legal AI
 
