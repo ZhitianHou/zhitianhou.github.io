@@ -17,8 +17,8 @@ My current research interests lie primarily in **Multimodal Large Language Model
 # 🔥 News
 - *2026.09*: &nbsp;🎉 One paper is accepted by **NeurIPS 2026**.
 - *2026.08*: &nbsp;🎉 One paper is accepted by **EMNLP 2026**.
-- *2025.07*: &nbsp;🎉 Our paper "QCSH: Quantization Controlled Semantic Hashing for Effective Similar Text Search" has been accepted to **IEEE SMC Conference 2025**.
-- *2025.04*: &nbsp;🎉 Our paper "KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction" has been accepted to **CogSci 2025**.
+- *2025.07*: &nbsp;🎉 One paper is accepted by **IEEE SMC Conference 2025**.
+- *2025.04*: &nbsp;🎉 One paper is accepted by **CogSci 2025**.
 
 # 📝 Publications
 
@@ -33,14 +33,13 @@ My current research interests lie primarily in **Multimodal Large Language Model
 
 [![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=MedPIC-Bench&labelColor=1a73e8)](https://arxiv.org/pdf/2608.03028)
 [![HF](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFDD33?label=MedPIC-Bench&labelColor=1a73e8)](https://huggingface.co/datasets/TIM0927/MedPIC-Bench)
-[![](https://img.shields.io/badge/🤖%20ModelScope-8000FF?style=flat-square&logo=ModelScope&labelColor=1a73e8&label=MedPIC-Bench)](https://modelscope.cn/datasets/ZhitianHou/MedPIC-Bench) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:LkGwnXOMwfcC'></span></strong>
+[![](https://img.shields.io/badge/%F0%9F%A4%96%20ModelScope-8000FF?style=flat-square&labelColor=1a73e8&label=MedPIC-Bench)](https://modelscope.cn/datasets/ZhitianHou/MedPIC-Bench) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:LkGwnXOMwfcC'></span></strong>
 
 - We introduce MedPIC-Bench, which shows that general and medical-specific LLMs often know medication-safety rules but fail to apply or withdraw them appropriately when patient information changes.
 
 </div>
 </div>
 
-- <code style="background-color:#1a73e8; color:#fff; padding:1px 1px; border-radius:4px; font-weight:500;">NeurIPS 2026</code> NPCBench: A Clinical Apprenticeship Benchmark for Guideline-Constrained Care-Pathway Reasoning in Nasopharyngeal Carcinoma, Pengkai Wang, Wei-Wei Zhang, Yan Li, Min Tang, **Zhitian Hou** et al.
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/InfiMed-Foundation.png' alt="sym" width="100%"></div></div>
@@ -75,10 +74,10 @@ Zeyu Liu$^\*$, **Zhitian Hou$^\*$**, Guanghao Zhu, Zhijie Sang, Congkai Xie, Hon
 </div>
 </div>
 
+- <code style="background-color:#1a73e8; color:#fff; padding:1px 1px; border-radius:4px; font-weight:500;">NeurIPS 2026</code> NPCBench: A Clinical Apprenticeship Benchmark for Guideline-Constrained Care-Pathway Reasoning in Nasopharyngeal Carcinoma, Pengkai Wang, Wei-Wei Zhang, Yan Li, Min Tang, **Zhitian Hou** et al.
+
 ## ⚖️ Legal AI
 
-- <code style="background-color:#1a73e8; color:#fff; padding:1px 1px; border-radius:4px; font-weight:500;">EMNLP 2026</code> [Generating Complete Court Judgments with Large Language Models: A Study on CMML](https://aclanthology.org/2026.findings-emnlp.1086.pdf), Zhongyi Guan, **Zhitian Hou**, Nanli Zeng, Kun Zeng [![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=CMML&labelColor=1a73e8)](https://aclanthology.org/2026.findings-emnlp.1086.pdf) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:hqOjcs7Dif8C'></span></strong>
-- <code style="background-color:#1a73e8; color:#fff; padding:1px 1px; border-radius:4px; font-weight:500;">Arxiv 2026</code> [Exploring Lightweight Large Language Models for Court View Generation](https://arxiv.org/pdf/2605.16770), **Zhitian Hou**, Tianyong Hao, Nanli Zeng, Zhixiong Chao, Kun Zeng [![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=Court-View-Generation&labelColor=1a73e8)](https://arxiv.org/pdf/2605.16770) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:ufrVoPGSRksC'></span></strong>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/LLM4LegalAI.png' alt="sym" width="100%"></div></div>
@@ -111,14 +110,17 @@ KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction
 </div>
 </div>
 
-- <code style="background-color:#1a73e8; color:#fff; padding:1px 1px; border-radius:4px; font-weight:500;">Arxiv 2025</code> [ShiZhi: A Lightweight Large Model for Court View Generation](https://arxiv.org/pdf/2510.09297), **Zhitian Hou**, Kun Zeng [![](https://img.shields.io/badge/%F0%9F%93%84%20Technical%20Report-red?label=ShiZhi%7CCCVG&labelColor=1a73e8)](https://arxiv.org/abs/2510.09297)   [![](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFDD33?label=ShiZhi&labelColor=1a73e8)](https://huggingface.co/TIM0927/ShiZhi) [![](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFDD33?label=CCVG&labelColor=1a73e8)](https://huggingface.co/datasets/TIM0927/CCVG) [![](https://img.shields.io/badge/🤖%20ModelScope-8000FF?style=flat-square&logo=ModelScope&labelColor=1a73e8&label=ShiZhi)](https://modelscope.cn/models/ZhitianHou/ShiZhi) [![](https://img.shields.io/badge/🤖%20ModelScope-8000FF?style=flat-square&logo=ModelScope&labelColor=1a73e8&label=CCVG)](https://www.modelscope.cn/datasets/ZhitianHou/CCVG) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:Y0pCki6q_DkC'></span></strong> [![](https://img.shields.io/github/stars/ZhitianHou/ShiZhi?style=social)](https://github.com/ZhitianHou/ShiZhi)
+- <code style="background-color:#1a73e8; color:#fff; padding:1px 1px; border-radius:4px; font-weight:500;">EMNLP 2026</code> [Generating Complete Court Judgments with Large Language Models: A Study on CMML](https://aclanthology.org/2026.findings-emnlp.1086.pdf), Zhongyi Guan, **Zhitian Hou**, Nanli Zeng, Kun Zeng [![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=CMML&labelColor=1a73e8)](https://aclanthology.org/2026.findings-emnlp.1086.pdf) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:hqOjcs7Dif8C'></span></strong>
+- <code style="background-color:#1a73e8; color:#fff; padding:1px 1px; border-radius:4px; font-weight:500;">Arxiv 2026</code> [Exploring Lightweight Large Language Models for Court View Generation](https://arxiv.org/pdf/2605.16770), **Zhitian Hou**, Tianyong Hao, Nanli Zeng, Zhixiong Chao, Kun Zeng [![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=Court-View-Generation&labelColor=1a73e8)](https://arxiv.org/pdf/2605.16770) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:ufrVoPGSRksC'></span></strong>
+- <code style="background-color:#1a73e8; color:#fff; padding:1px 1px; border-radius:4px; font-weight:500;">Arxiv 2025</code> [ShiZhi: A Lightweight Large Model for Court View Generation](https://arxiv.org/pdf/2510.09297), **Zhitian Hou**, Kun Zeng [![](https://img.shields.io/badge/%F0%9F%93%84%20Technical%20Report-red?label=ShiZhi%7CCCVG&labelColor=1a73e8)](https://arxiv.org/abs/2510.09297)   [![](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFDD33?label=ShiZhi&labelColor=1a73e8)](https://huggingface.co/TIM0927/ShiZhi) [![](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFDD33?label=CCVG&labelColor=1a73e8)](https://huggingface.co/datasets/TIM0927/CCVG) [![](https://img.shields.io/badge/%F0%9F%A4%96%20ModelScope-8000FF?style=flat-square&labelColor=1a73e8&label=ShiZhi)](https://modelscope.cn/models/ZhitianHou/ShiZhi) [![](https://img.shields.io/badge/%F0%9F%A4%96%20ModelScope-8000FF?style=flat-square&labelColor=1a73e8&label=CCVG)](https://www.modelscope.cn/datasets/ZhitianHou/CCVG) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:Y0pCki6q_DkC'></span></strong> [![](https://img.shields.io/github/stars/ZhitianHou/ShiZhi?style=social)](https://github.com/ZhitianHou/ShiZhi)
 
 ## Others
+
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
 - <code style="background-color:#1a73e8; color:#fff; padding:1px 1px; border-radius:4px; font-weight:500;">Arxiv 2026</code> [FusionEval: Benchmarking Model Fusion for Large Language Models](https://arxiv.org/pdf/2610.30162), Shuo Cai, Yanggan Gu, Yuhang Liu, Su Lu, Yuanyi Wang, Yang Yu, Zhen Li, **Zhitian Hou**, Guanghao Zhu, Ming Li, Hongxia Yang [![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=FusionEval&labelColor=1a73e8)](https://arxiv.org/pdf/2610.30162) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:UebtZRa9Y70C'></span></strong>
 - <code style="background-color:#1a73e8; color:#fff; padding:1px 1px; border-radius:4px; font-weight:500;">IEEE SMC Conference 2025</code> [QCSH: Quantization Controlled Semantic Hashing for Effective Similar Text Search](https://ieeexplore.ieee.org/document/11343235), Zihan Ye, **Zhitian Hou**, Ge Lin, Kun Zeng  [![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=QCSH&labelColor=1a73e8)](https://ieeexplore.ieee.org/document/11343235) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:WF5omc3nYNoC'></span></strong>
 - <code style="background-color:#1a73e8; color:#fff; padding:1px 1px; border-radius:4px; font-weight:500;">Digital Health</code> [Homogeneous ensemble models for predicting infection levels and mortality of COVID-19 patients: Evidence from China](https://journals.sagepub.com/doi/epub/10.1177/20552076221133692), Jiafeng Wang$^\*$, Xianlong Zhou$^\*$, **Zhitian Hou$^\*$**, et al. [![](https://img.shields.io/badge/%F0%9F%93%84%20Paper-red?label=COVID-19-Analysis&labelColor=1a73e8)](https://journals.sagepub.com/doi/epub/10.1177/20552076221133692) <strong><span class='show_paper_citations' data='ma9gcQsAAAAJ:qjMakFHDy7sC'></span></strong>
-
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2024.09* First-Grade Scholarship, SYSU

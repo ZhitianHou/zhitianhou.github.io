@@ -6,7 +6,9 @@
         if (total && Number.isInteger(data.citedby)) total.textContent = data.citedby;
         Array.prototype.forEach.call(document.getElementsByClassName('show_paper_citations'), function (element) {
             var paper = (data.publications || {})[element.getAttribute('data')];
-            if (!paper || !Number.isInteger(paper.num_citations)) return;
+            element.textContent = '';
+            element.removeAttribute('title');
+            if (!paper || !Number.isInteger(paper.num_citations) || paper.num_citations <= 0) return;
             element.textContent = '| Citations: ' + paper.num_citations;
             element.title = 'Google Scholar · manually updated ' + (data.updated || '');
         });
