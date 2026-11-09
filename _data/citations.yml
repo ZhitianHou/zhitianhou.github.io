@@ -1,11 +1,11 @@
 # 手动核对 Google Scholar 后修改引用数和 updated 日期。
-# 2026-10-30 从用户已打开的 Google Scholar 页面人工核对。
-updated: "2026-10-30"
-citedby: 39
+# 2026-11-09 从 Google Scholar 个人主页核对。
+updated: "2026-11-09"
+citedby: 40
 publications:
   "ma9gcQsAAAAJ:zYLM7Y9cAGgC":
     title: "Large Language Models Meet Legal Artificial Intelligence: A Survey"
-    num_citations: 24
+    num_citations: 25
   "ma9gcQsAAAAJ:UeHWp8X0CEIC":
     title: "Infi-Med: Low-Resource Medical MLLMs with Robust Reasoning Evaluation"
     num_citations: 7
@@ -39,4 +39,7 @@ publications:
     num_citations: 0
   "ma9gcQsAAAAJ:UebtZRa9Y70C":
     title: "FusionEval: Benchmarking Model Fusion for Large Language Models"
+    num_citations: 0
+  "ma9gcQsAAAAJ:0EnyYjriUFMC":
+    title: "Patient-specific rubric-based evaluation of large language models across longitudinal cancer care"
     num_citations: 0
