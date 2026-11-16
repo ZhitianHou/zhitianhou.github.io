@@ -1,11 +1,11 @@
 # 手动核对 Google Scholar 后修改引用数和 updated 日期。
-# 2026-11-09 从 Google Scholar 个人主页核对。
-updated: "2026-11-09"
-citedby: 40
+# 2026-11-16 从 Google Scholar 个人主页核对。
+updated: "2026-11-16"
+citedby: 42
 publications:
   "ma9gcQsAAAAJ:zYLM7Y9cAGgC":
     title: "Large Language Models Meet Legal Artificial Intelligence: A Survey"
-    num_citations: 25
+    num_citations: 26
   "ma9gcQsAAAAJ:UeHWp8X0CEIC":
     title: "Infi-Med: Low-Resource Medical MLLMs with Robust Reasoning Evaluation"
     num_citations: 7
@@ -42,4 +42,7 @@ publications:
     num_citations: 0
   "ma9gcQsAAAAJ:0EnyYjriUFMC":
     title: "Patient-specific rubric-based evaluation of large language models across longitudinal cancer care"
+    num_citations: 1
+  "ma9gcQsAAAAJ:5nxA0vEk-isC":
+    title: "NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma"
     num_citations: 0
