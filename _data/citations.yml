@@ -1,7 +1,7 @@
 # 手动核对 Google Scholar 后修改引用数和 updated 日期。
-# 2026-11-16 从 Google Scholar 个人主页核对。
-updated: "2026-11-16"
-citedby: 42
+# 2026-11-23 从 Google Scholar 个人主页核对。
+updated: "2026-11-23"
+citedby: 44
 publications:
   "ma9gcQsAAAAJ:zYLM7Y9cAGgC":
     title: "Large Language Models Meet Legal Artificial Intelligence: A Survey"
@@ -20,7 +20,7 @@ publications:
     num_citations: 1
   "ma9gcQsAAAAJ:LkGwnXOMwfcC":
     title: "Evaluating Counterfactual Sensitivity to Patient Information in Medication-Safety Reasoning"
-    num_citations: 0
+    num_citations: 2
   # 此论文未出现在本次页面中，保留旧记录；此条引用数未重新核实。
   "ma9gcQsAAAAJ:_FxGoFyzp5QC":
     title: "PMC-InterCPT: Rethinking Biomedical Interleaved Data for Multimodal Continued Pretraining"
